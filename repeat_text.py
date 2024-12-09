@@ -1,2 +1,3 @@
-valor1 = input("Digite o texto: ")
-print("Texto digitado: ", valor1)
+string1 = input("Digite o texto: ")
+numero = int(input("Entre com o numero: "))
+print(string * numero)
